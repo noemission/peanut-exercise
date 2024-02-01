@@ -15,3 +15,5 @@ The API is simulated through mockoon file in the root of the project (mockoon.js
 # Instructions
 
 Full instuctions can be found here and designs here
+
+Please run `pnpm dev` to start the app
