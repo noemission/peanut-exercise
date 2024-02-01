@@ -1,0 +1,18 @@
+{
+  "uuid": "b8d0bda7-20d4-46cc-be95-4980c2909881",
+  "published_at": "2023-05-09T10:11:00.000Z",
+  "heading": "1 Week Pregnant: What to Expect During Pregnancy",
+  "summary": "It’s like you’re both pregnant and not pregnant all at the same time",
+  "slug": "blog/1-week-pregnant",
+  "locale": "en",
+  "featured": false,
+  "tag": {
+    "id": 84,
+    "name": "Pregnancy Week-by-Week"
+  },
+  "hero_image_url": "https://example.com/image.jpg",
+  "author": {
+    "name": "Tassia Agatowski",
+    "avatar_url": "https://example.com/author.jpg"
+  }
+}
