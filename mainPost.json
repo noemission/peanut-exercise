@@ -6,10 +6,25 @@
   "slug": "blog/1-week-pregnant",
   "locale": "en",
   "featured": false,
+  "description": "",
   "tag": {
     "id": 84,
     "name": "Pregnancy Week-by-Week"
   },
+  "related_articles": [
+    {
+      "text": "When do babies start talking?",
+      "url": "https://example.com/when-do-babies-start-talking"
+    },
+    {
+      "text": "Some possible milestones to your baby’s first words",
+      "url": "https://example.com/milestones"
+    },
+    {
+      "text": "Pregnancy symptoms",
+      "url": "https://example.com/pregnancy-symptoms"
+    }
+  ],
   "hero_image_url": "https://example.com/image.jpg",
   "author": {
     "name": "Tassia Agatowski",
