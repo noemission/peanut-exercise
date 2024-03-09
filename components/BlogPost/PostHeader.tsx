@@ -32,7 +32,7 @@ export default function PostHeader(header: Props) {
           <span>•</span>
           <span className="font-light text-sm text-dark-4">
             <RelativeDate date={header.publishDate} />
-            <span>, {header.readingTime} min reading</span>
+            <span data-testid='reading-time'>, {header.readingTime} min reading</span>
           </span>
         </div>
       </header>

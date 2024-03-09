@@ -1,5 +1,5 @@
 import Post from '@/components/BlogPost/Post';
-import fetchPost from 'lib/blog/post';
+import fetchPost from '../../../lib/blog/post';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 

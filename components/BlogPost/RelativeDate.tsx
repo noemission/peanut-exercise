@@ -7,5 +7,5 @@ const relativeDate = (date: Date) => {
   return rtf1.format(diffInDays, 'days');
 };
 export default function RelativeDate({ date }: { date: Date }) {
-  return <span suppressHydrationWarning>{relativeDate(date)}</span>;
+  return <span data-testid='relative-date' suppressHydrationWarning>{relativeDate(date)}</span>;
 }

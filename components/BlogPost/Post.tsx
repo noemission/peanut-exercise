@@ -1,11 +1,11 @@
-import fetchSuggestedBlogs from 'lib/blog/suggested';
+import fetchSuggestedBlogs from '../../lib/blog/suggested';
 import MoreArticles from './MoreArticles';
 import PostActions from './PostActions';
 import PostHeader from './PostHeader';
 import PostMainText from './PostMainText';
 import Related from './Related';
 import SocialIcons from './SocialIcons';
-import calculateReadingTime from 'utils/calculateReadingTime';
+import calculateReadingTime from '../../utils/calculateReadingTime';
 import { SinglePost } from 'types';
 
 type Props = {
