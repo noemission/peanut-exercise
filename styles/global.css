@@ -1,4 +1,8 @@
-html,
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -29,4 +33,16 @@ code {
   font-size: 1.1rem;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;
+} */
+.blog-post p {
+  margin-block-end: 16px;
+  @apply text-base;
+}
+.blog-post h3 {
+  margin-block-end: 16px;
+  @apply text-xl font-black;
+}
+.blog-post a {
+  margin-block-end: 16px;
+  @apply underline;
 }
